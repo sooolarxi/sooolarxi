@@ -10,10 +10,14 @@ Reach me at **sooolarxi@gmail.com**
 
 ## Technologies & Tools
 
-HTML、CSS、SASS、LESS
-JavaScript、TypeScript、AJAX
-Vue（Vue 2、Vue 3）、Vue Router、Vuex、Pinia
-Element Plus、Bootstrap、Responsive Design
-Webpack、Vite
-Visual Studio Code、Git、GitHub
-pNpm、ESLint、Prettier、Commitlint、Husky
+HTML, CSS, SASS, LESS, 
+JavaScript, TypeScript, AJAX, 
+Vue(Vue 2, Vue 3), 
+Vue Router, Vuex, Pinia, 
+Element Plus, Bootstrap, 
+Responsive Design, 
+Webpack, Vite, 
+Visual Studio Code, 
+Git, GitHub, 
+pNpm, 
+ESLint, Prettier, Commitlint, Husky
